@@ -13,11 +13,14 @@ class ProcessUtils:
             self.process = self.find_process_by_port(port)
 
     def find_process_by_name(self, name):
-        for p in psutil.process_iter(attrs=['name']):
-            if name in p.info['name']:
-                return p
+        try:
+            for p in psutil.process_iter(attrs=['name']):
+                if name in p.info['name']:
+                    return p
+        except:
+            pass
         return None
-    
+		
     def find_process_by_port(self, port):
         for p in psutil.process_iter():
             if port in ProcessUtils.get_process_ports(p):

@@ -12,7 +12,7 @@ def register():
     fileName = 'metrics.txt'
     print(reqJson)
     with open((fileName), "a") as metrics:
-		ip = str(reqJson['ip'])
+        ip = str(reqJson['ip'])
         ram = str(reqJson['ram'])
         time = str(reqJson['timestamp'])
         swap = str(reqJson['swap'])
@@ -28,7 +28,7 @@ def register():
         rtt = str(reqJson['rtt'])
         energy = str(reqJson['energy'])
         user_logged = reqJson['user_logged']
-		metrics.write('Cliente - ' + ip + '\n')
+        metrics.write('Cliente - ' + ip + '\n')
         metrics.write('Fecha - ' + time + '\n')
         metrics.write('ram - ' + ram + '\n')
         metrics.write('swap - ' + swap + '\n')

@@ -164,7 +164,7 @@ def get_system_info():
         "energy": energy_utils.get_power_consumption(),
         "user_logged": user_utils.get_users_logged()
     }
-	for critical_resource in resources_above_threshold(info):
+    for critical_resource in resources_above_threshold(info):
         db.post(db.processes, critical_resource)
     return info
 

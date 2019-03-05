@@ -1,0 +1,374 @@
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:13
+ram - {'used': 3263258624, 'free': 13820321792, 'percent': 19.1}
+swap - {'used': 3114500096, 'free': 16519221248, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619312640, 'free': 164970434560, 'percent': 23.1}
+unacloud_disk - {'used': 49619312640, 'free': 164970434560, 'percent': 23.1}
+cpu - 10.8
+cpu_details - {'user': 1.8, 'system': 8.6, 'idle': 89.2, 'interrupt': 0.2, 'dpc': 0.2}
+net_io_counters - {'bytes_sent': 104009483, 'bytes_recv': 105533796, 'packets_sent': 315040, 'packets_recv': 687263, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 1
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:15
+ram - {'used': 3268485120, 'free': 13815099392, 'percent': 19.1}
+swap - {'used': 3123941376, 'free': 16509779968, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619320832, 'free': 164970426368, 'percent': 23.1}
+unacloud_disk - {'used': 49619320832, 'free': 164970426368, 'percent': 23.1}
+cpu - 8.3
+cpu_details - {'user': 2.6, 'system': 5.7, 'idle': 91.7, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104035620, 'bytes_recv': 105535789, 'packets_sent': 315074, 'packets_recv': 687289, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 1
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:16
+ram - {'used': 3268763648, 'free': 13814820864, 'percent': 19.1}
+swap - {'used': 3124613120, 'free': 16509108224, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619320832, 'free': 164970426368, 'percent': 23.1}
+unacloud_disk - {'used': 49619320832, 'free': 164970426368, 'percent': 23.1}
+cpu - 7.3
+cpu_details - {'user': 1.5, 'system': 5.8, 'idle': 92.7, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104111734, 'bytes_recv': 105540666, 'packets_sent': 315175, 'packets_recv': 687357, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:17
+ram - {'used': 3268399104, 'free': 13815185408, 'percent': 19.1}
+swap - {'used': 3121795072, 'free': 16511926272, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619386368, 'free': 164970360832, 'percent': 23.1}
+unacloud_disk - {'used': 49619386368, 'free': 164970360832, 'percent': 23.1}
+cpu - 6.7
+cpu_details - {'user': 1.0, 'system': 5.8, 'idle': 93.3, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104119407, 'bytes_recv': 105541565, 'packets_sent': 315188, 'packets_recv': 687368, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:18
+ram - {'used': 3268407296, 'free': 13815169024, 'percent': 19.1}
+swap - {'used': 3122233344, 'free': 16511488000, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619386368, 'free': 164970360832, 'percent': 23.1}
+unacloud_disk - {'used': 49619386368, 'free': 164970360832, 'percent': 23.1}
+cpu - 8.9
+cpu_details - {'user': 1.9, 'system': 6.9, 'idle': 91.1, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104121852, 'bytes_recv': 105541565, 'packets_sent': 315192, 'packets_recv': 687368, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:19
+ram - {'used': 3268599808, 'free': 13814984704, 'percent': 19.1}
+swap - {'used': 3121713152, 'free': 16512008192, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+unacloud_disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+cpu - 8.4
+cpu_details - {'user': 2.1, 'system': 6.0, 'idle': 91.6, 'interrupt': 0.4, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104125216, 'bytes_recv': 105542799, 'packets_sent': 315199, 'packets_recv': 687381, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:20
+ram - {'used': 3268390912, 'free': 13815193600, 'percent': 19.1}
+swap - {'used': 3120631808, 'free': 16513089536, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+unacloud_disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+cpu - 8.3
+cpu_details - {'user': 1.5, 'system': 6.8, 'idle': 91.7, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104127801, 'bytes_recv': 105543253, 'packets_sent': 315204, 'packets_recv': 687386, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:21
+ram - {'used': 3268427776, 'free': 13815156736, 'percent': 19.1}
+swap - {'used': 3120701440, 'free': 16513019904, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+unacloud_disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+cpu - 7.5
+cpu_details - {'user': 1.7, 'system': 5.7, 'idle': 92.5, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104129647, 'bytes_recv': 105543969, 'packets_sent': 315209, 'packets_recv': 687393, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:22
+ram - {'used': 3268349952, 'free': 13815177216, 'percent': 19.1}
+swap - {'used': 3119292416, 'free': 16514428928, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+unacloud_disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+cpu - 9.2
+cpu_details - {'user': 1.7, 'system': 7.5, 'idle': 90.8, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104153796, 'bytes_recv': 105545564, 'packets_sent': 315235, 'packets_recv': 687413, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:23
+ram - {'used': 3268435968, 'free': 13815148544, 'percent': 19.1}
+swap - {'used': 3119869952, 'free': 16513851392, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+unacloud_disk - {'used': 49619390464, 'free': 164970356736, 'percent': 23.1}
+cpu - 10.1
+cpu_details - {'user': 2.5, 'system': 7.4, 'idle': 89.9, 'interrupt': 0.2, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104170995, 'bytes_recv': 105547797, 'packets_sent': 315264, 'packets_recv': 687439, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:24
+ram - {'used': 3268575232, 'free': 13815009280, 'percent': 19.1}
+swap - {'used': 3120279552, 'free': 16513441792, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+unacloud_disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+cpu - 6.5
+cpu_details - {'user': 0.6, 'system': 6.0, 'idle': 93.5, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104175250, 'bytes_recv': 105549114, 'packets_sent': 315273, 'packets_recv': 687452, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:25
+ram - {'used': 3268894720, 'free': 13814689792, 'percent': 19.1}
+swap - {'used': 3119779840, 'free': 16513941504, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+unacloud_disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+cpu - 7.3
+cpu_details - {'user': 1.4, 'system': 6.0, 'idle': 92.7, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104178455, 'bytes_recv': 105550418, 'packets_sent': 315280, 'packets_recv': 687466, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:26
+ram - {'used': 3268825088, 'free': 13814755328, 'percent': 19.1}
+swap - {'used': 3120828416, 'free': 16512892928, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+unacloud_disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+cpu - 7.7
+cpu_details - {'user': 1.3, 'system': 6.4, 'idle': 92.3, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104180180, 'bytes_recv': 105551528, 'packets_sent': 315286, 'packets_recv': 687476, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:27
+ram - {'used': 3268853760, 'free': 13814730752, 'percent': 19.1}
+swap - {'used': 3120345088, 'free': 16513376256, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+unacloud_disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+cpu - 7.7
+cpu_details - {'user': 2.1, 'system': 5.6, 'idle': 92.3, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104181539, 'bytes_recv': 105552138, 'packets_sent': 315289, 'packets_recv': 687481, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:28
+ram - {'used': 3268853760, 'free': 13814730752, 'percent': 19.1}
+swap - {'used': 3119792128, 'free': 16513929216, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+unacloud_disk - {'used': 49619394560, 'free': 164970352640, 'percent': 23.1}
+cpu - 7.9
+cpu_details - {'user': 1.0, 'system': 6.7, 'idle': 92.1, 'interrupt': 0.2, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104182559, 'bytes_recv': 105552854, 'packets_sent': 315294, 'packets_recv': 687488, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:29
+ram - {'used': 3268964352, 'free': 13814620160, 'percent': 19.1}
+swap - {'used': 3119173632, 'free': 16514547712, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+unacloud_disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+cpu - 9.2
+cpu_details - {'user': 1.0, 'system': 8.0, 'idle': 90.8, 'interrupt': 0.2, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104184483, 'bytes_recv': 105553570, 'packets_sent': 315299, 'packets_recv': 687495, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:30
+ram - {'used': 3268943872, 'free': 13814603776, 'percent': 19.1}
+swap - {'used': 3120304128, 'free': 16513417216, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+unacloud_disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+cpu - 7.1
+cpu_details - {'user': 0.8, 'system': 6.3, 'idle': 92.9, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104188461, 'bytes_recv': 105554350, 'packets_sent': 315307, 'packets_recv': 687503, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:31
+ram - {'used': 3269005312, 'free': 13814579200, 'percent': 19.1}
+swap - {'used': 3120967680, 'free': 16512753664, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+unacloud_disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+cpu - 8.4
+cpu_details - {'user': 1.5, 'system': 6.7, 'idle': 91.6, 'interrupt': 0.0, 'dpc': 0.2}
+net_io_counters - {'bytes_sent': 104189544, 'bytes_recv': 105554350, 'packets_sent': 315309, 'packets_recv': 687503, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:32
+ram - {'used': 3268960256, 'free': 13814624256, 'percent': 19.1}
+swap - {'used': 3120324608, 'free': 16513396736, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+unacloud_disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+cpu - 7.7
+cpu_details - {'user': 1.0, 'system': 6.5, 'idle': 92.3, 'interrupt': 0.2, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104191814, 'bytes_recv': 105555520, 'packets_sent': 315316, 'packets_recv': 687515, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:33
+ram - {'used': 3268984832, 'free': 13814599680, 'percent': 19.1}
+swap - {'used': 3119734784, 'free': 16513986560, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+unacloud_disk - {'used': 49619398656, 'free': 164970348544, 'percent': 23.1}
+cpu - 9.5
+cpu_details - {'user': 1.9, 'system': 7.5, 'idle': 90.5, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104192744, 'bytes_recv': 105555924, 'packets_sent': 315319, 'packets_recv': 687519, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:34
+ram - {'used': 3268812800, 'free': 13814743040, 'percent': 19.1}
+swap - {'used': 3121020928, 'free': 16512700416, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619402752, 'free': 164970344448, 'percent': 23.1}
+unacloud_disk - {'used': 49619402752, 'free': 164970344448, 'percent': 23.1}
+cpu - 7.7
+cpu_details - {'user': 0.6, 'system': 6.9, 'idle': 92.3, 'interrupt': 0.2, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104194312, 'bytes_recv': 105556782, 'packets_sent': 315325, 'packets_recv': 687528, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
+Cliente - 157.253.205.13
+Fecha - 2019-03-05T12:41:35
+ram - {'used': 3268526080, 'free': 13815025664, 'percent': 19.1}
+swap - {'used': 3120275456, 'free': 16513445888, 'percent': 15.9, 'sin': 0, 'sout': 0}
+disk - {'used': 49619402752, 'free': 164970344448, 'percent': 23.1}
+unacloud_disk - {'used': 49619402752, 'free': 164970344448, 'percent': 23.1}
+cpu - 8.1
+cpu_details - {'user': 1.7, 'system': 6.3, 'idle': 91.9, 'interrupt': 0.0, 'dpc': 0.0}
+net_io_counters - {'bytes_sent': 104207909, 'bytes_recv': 105558391, 'packets_sent': 315346, 'packets_recv': 687548, 'errin': 0, 'errout': 0, 'dropin': 0, 'dropout': 0}
+running_vms - 0
+virtualbox_status - 1
+vbox_process_count - 0
+unacloud_status - 0
+rtt - 0
+energy - {'processor': -1, 'ia': -1, 'dram': -1}
+user_logged - True
+--------------------------------------------------
