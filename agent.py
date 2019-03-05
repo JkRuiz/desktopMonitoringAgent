@@ -129,8 +129,8 @@ def main():
 def run():
     initialize_utils()
 
-    response = db.post(db.initial_info, get_initial_info())
-    handle_response(response)
+    # response = db.post(db.initial_info, get_initial_info())
+    # handle_response(response)
 
     curr_duration = DURATION
     while (curr_duration > 0) or INFINITE:
@@ -146,7 +146,7 @@ def run():
 
 def get_system_info():
     info = {
-        "timestamp": dh.format_time(),
+		"timestamp": dh.format_time(),
         "ip": network_utils.get_ip_addr(),
         "ram": ram_utils.get_ram_percent(),
         "swap": ram_utils.get_swap_memory(),
@@ -164,7 +164,7 @@ def get_system_info():
         "energy": energy_utils.get_power_consumption(),
         "user_logged": user_utils.get_users_logged()
     }
-    for critical_resource in resources_above_threshold(info):
+	for critical_resource in resources_above_threshold(info):
         db.post(db.processes, critical_resource)
     return info
 
@@ -180,6 +180,7 @@ def get_initial_info():
         "total_disk": disk_utils.get_disk_percent(total=True),
         "total_unacloud_disk": disk_utils.get_disk_percent(total=True, partition=properties['partition'])
     }
+
 
 
 def get_processes_info(critical_resource):
