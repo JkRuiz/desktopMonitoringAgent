@@ -129,8 +129,8 @@ def main():
 def run():
     initialize_utils()
 
-    # response = db.post(db.initial_info, get_initial_info())
-    # handle_response(response)
+    response = db.post(db.initial_info, get_initial_info())
+    handle_response(response)
 
     curr_duration = DURATION
     while (curr_duration > 0) or INFINITE:
