@@ -22,10 +22,14 @@ class ProcessUtils:
         return None
 		
     def find_process_by_port(self, port):
-        for p in psutil.process_iter():
-            if port in ProcessUtils.get_process_ports(p):
-                return p
-        return None
+        try:
+            for p in psutil.process_iter():
+                if port in ProcessUtils.get_process_ports(p):
+                    return p
+            return None
+        except:
+            pass
+        return None	
     
     def get_process_status(self):
         return self.process.status() if self.process else ''
@@ -60,9 +64,12 @@ class ProcessUtils:
     @staticmethod
     def get_processes_by_name(name):
         processes = []
-        for p in psutil.process_iter(attrs=['name']):
-            if name in p.info['name']:
-                processes.append(p)
+        try:
+            for p in psutil.process_iter(attrs=['name']):
+                if name in p.info['name']:
+                    processes.append(p)
+        except:
+            pass
         return processes
     
     @staticmethod
