@@ -1,7 +1,8 @@
 import requests
 
 
-base_url = "http://157.253.205.40:3000/{}"
+base_url = "http://157.253.205.13:3000/{}"
+# base_url = "http://157.253.205.40:3000/{}"
 # base_url = "http://157.253.205.13:5000/{}"
 
 metric = "createMetric"
